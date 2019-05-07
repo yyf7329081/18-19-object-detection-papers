@@ -2,10 +2,11 @@
 18-19目标检测论文汇总  
 
 21. [M2Det] M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network，AAAI2019  
-主干网络中两个不同尺寸的特征图，进行多级U型网络得到Multi-level&Mutli-scale特征图，多级同尺寸的特征图融合，得到6个不同scale的多级特征金字塔，进行回归与分类。
+简介：主干网络中两个不同尺寸的特征图，进行多级U型网络得到Multi-level&Mutli-scale特征图，多级同尺寸的特征图融合，得到6个不同scale的多级特征金字塔，进行回归与分类。  
 [github地址](https://github.com/qijiezhao/M2Det)  
 
 22. [R-DAD] Object Detection based on Region Decomposition and Assembly，AAAI2019  
+简介：针对two-stage检测框架的region proposal，把proprsal上下、左右分解后进行融合，从region proposal的阶段改善对部分遮挡物体的检测。
 
 23. [GIoU] Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression，CVPR2019  
 简介：提出用IoU这个直接的指标来指导回归任务的学习，用直接指标IoU作为损失函数的缺陷性，提出新的metric来代替L1、L2损失函数，从而提升regression效果  
