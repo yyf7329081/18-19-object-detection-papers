@@ -1,8 +1,7 @@
 # 18-19-object-detection-papers
-18-19目标检测论文汇总
+18-19目标检测论文汇总  
 21. [M2Det] M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network，AAAI2019
-[github地址](https://github.com/qijiezhao/M2Det)
-
+[github地址](https://github.com/qijiezhao/M2Det)  
 
 22. [R-DAD] Object Detection based on Region Decomposition and Assembly，AAAI2019
 
