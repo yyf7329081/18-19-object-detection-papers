@@ -25,7 +25,7 @@
 
 27. [ExtremeNet] Bottom-up Object Detection by Grouping Extreme and Center Points，CVPR2019  
 简介：Hourglass网络作为backbone，按照CornerNet的结构和损失函数，预测四个extreme point（顶、左、底、右）以及目标的中心点，完成检测。  
-[github地址](https://github.com/xingyizhou/ExtremeNet)
+[解读](https://www.cnblogs.com/cieusy/p/10399960.html) [github地址](https://github.com/xingyizhou/ExtremeNet)
 
 28. [C-MIL] Continuation Multiple Instance Learning for Weakly Supervised Object Detection，CVPR2019  
 [github地址](https://github.com/AnonymousIDs/C-MIL)
@@ -48,6 +48,7 @@
 [github地址](https://github.com/VisionLearningGroup/DA_Detection)
 
 34. [NAS-FPN] Learning Scalable Feature Pyramid Architecture for Object Detection，CVPR2019  
+简介：使用神经架构搜索（NAS）框架为RetinaNet框架发现更好的 FPN 架构。
 
 35. Towards Universal Object Detection by Domain Attention，CVPR2019  
 
