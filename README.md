@@ -24,6 +24,7 @@
 [解读](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247487638&idx=2&sn=1e9f26013b3d9ab4fd4137729894606a&chksm=ec1ffd6fdb687479183be59ec102f28bff4a5521903707fef744449e7630252c5298b66f339b&token=1948754723&lang=zh_CN&scene=21#wechat_redirect)  
 
 27. [ExtremeNet] Bottom-up Object Detection by Grouping Extreme and Center Points，CVPR2019  
+简介：Hourglass网络作为backbone，按照CornerNet的结构和损失函数，预测四个extreme point（顶、左、底、右）以及目标的中心点，完成检测。
 [github地址](https://github.com/xingyizhou/ExtremeNet)
 
 28. [C-MIL] Continuation Multiple Instance Learning for Weakly Supervised Object Detection，CVPR2019  
