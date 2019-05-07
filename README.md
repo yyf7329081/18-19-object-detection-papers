@@ -2,6 +2,7 @@
 18-19目标检测论文汇总  
 
 21. [M2Det] M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network，AAAI2019  
+主干网络中两个不同尺寸的特征图，进行多级U型网络得到Multi-level&Mutli-scale特征图，多级同尺寸的特征图融合，得到6个不同scale的多级特征金字塔，进行回归与分类。
 [github地址](https://github.com/qijiezhao/M2Det)  
 
 22. [R-DAD] Object Detection based on Region Decomposition and Assembly，AAAI2019  
