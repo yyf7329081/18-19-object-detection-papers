@@ -20,7 +20,7 @@
 [解读](https://www.cnblogs.com/fourmi/p/10756556.html) [github地址](https://github.com/OceanPang/Libra_R-CNN)
 
 26. [FSAF] Feature Selective Anchor-Free Module for Single-Shot Object Detection  
-简介：RetinaNet+FSAF模块让每个instance自动的选择最合适的feature_map，选择的依据有原来的instance size变成了instance content  
+简介：RetinaNet+FSAF模块让每个instance自动的选择最合适的feature_map，选择的依据有原来的instance size变成了instance content。实现方法：anchor-free模块计算instance在所有feature_map进行预测后的损失，选择loss最小的作为该instance最佳的feature_map，并用anchor_based进行预测，提高检测精度。  
 [解读](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247487638&idx=2&sn=1e9f26013b3d9ab4fd4137729894606a&chksm=ec1ffd6fdb687479183be59ec102f28bff4a5521903707fef744449e7630252c5298b66f339b&token=1948754723&lang=zh_CN&scene=21#wechat_redirect)  
 
 27. [ExtremeNet] Bottom-up Object Detection by Grouping Extreme and Center Points，CVPR2019  
