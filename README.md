@@ -32,30 +32,30 @@
 简介：提出了一中新的边界框回归损失算法，提高了各种检测体系的目标定位精度  
 [github地址](https://github.com/yihui-he/KL-Loss)
 
-31. Activity Driven Weakly Supervised Object Detection  
+31. Activity Driven Weakly Supervised Object Detection，CVPR2019    
 [github地址](https://github.com/zhenheny/ADWSOD)
 
-32. Towards Accurate One-Stage Object Detection with AP-Loss  
+32. Towards Accurate One-Stage Object Detection with AP-Loss，CVPR2019    
 简介：提出一种新的训练框架，排序任务替换一阶目标检测器中的分类任务，AP来作为损失函数
 
-33. Strong-Weak Distribution Alignment for Adaptive Object Detection  
+33. Strong-Weak Distribution Alignment for Adaptive Object Detection，CVPR2019    
 [github地址](https://github.com/VisionLearningGroup/DA_Detection)
 
-34. [NAS-FPN] Learning Scalable Feature Pyramid Architecture for Object Detection
+34. [NAS-FPN] Learning Scalable Feature Pyramid Architecture for Object Detection，CVPR2019  
 
-35. Towards Universal Object Detection by Domain Attention
+35. Towards Universal Object Detection by Domain Attention，CVPR2019  
 
-36. Exploring the Bounds of the Utility of Context for Object Detection
+36. Exploring the Bounds of the Utility of Context for Object Detection，CVPR2019  
 
-37. Dissimilarity Coefficient based Weakly Supervised Object Detection
+37. Dissimilarity Coefficient based Weakly Supervised Object Detection，CVPR2019  
 
-38. [GA-RPN] Region Proposal by Guided Anchoring  
+38. [GA-RPN] Region Proposal by Guided Anchoring，CVPR2019    
 简介：通过FPN预测 anchor 的位置和形状，生成稀疏而且形状任意的 anchor，并且设计Feature Adaption 模块来修正特征图使之与 anchor精确匹配  
 [解读](https://mp.weixin.qq.com/s/Sl958JkcJjy-HW9_c-SH4g) [github地址](https://github.com/open-mmlab/mmdetection)
 
-39. A Simple Pooling-Based Design for Real-Time Salient Object Detection  
+39. A Simple Pooling-Based Design for Real-Time Salient Object Detection，CVPR2019    
 [github地址](https://github.com/backseason/PoolNet)
 
-40. [TridentNet] Scale-Aware Trident Networks for Object Detection  
+40. [TridentNet] Scale-Aware Trident Networks for Object Detection，CVPR2019    
 [解读](https://zhuanlan.zhihu.com/p/54334986) [github地址](https://github.com/TuSimple/simpledet/tree/master/models/tridentnet)
 
