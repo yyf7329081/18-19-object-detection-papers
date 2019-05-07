@@ -15,6 +15,7 @@
 24. Automatic adaptation of object detectors to new domains using self-training，CVPR2019  
 
 25. [Libra R-CNN] Libra R-CNN: Balanced Learning for Object Detection，CVPR2019  
+[github地址](https://github.com/OceanPang/Libra_R-CNN)
 
 26. [FSAF] Feature Selective Anchor-Free Module for Single-Shot Object Detection  
 简介：RetinaNet+FSAF模块让每个instance自动的选择最合适的feature_map，选择的依据有原来的instance size变成了instance content  
