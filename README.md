@@ -61,7 +61,7 @@
 [解读](https://mp.weixin.qq.com/s/Sl958JkcJjy-HW9_c-SH4g) [github地址](https://github.com/open-mmlab/mmdetection)
 
 39. A Simple Pooling-Based Design for Real-Time Salient Object Detection，CVPR2019    
-[github地址](https://github.com/backseason/PoolNet)
+[解读](https://blog.csdn.net/ruoruojiaojiao/article/details/89519806) [github地址](https://github.com/backseason/PoolNet)
 
 40. [TridentNet] Scale-Aware Trident Networks for Object Detection，CVPR2019    
 [解读](https://zhuanlan.zhihu.com/p/54334986) [github地址](https://github.com/TuSimple/simpledet/tree/master/models/tridentnet)
