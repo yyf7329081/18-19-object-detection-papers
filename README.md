@@ -6,6 +6,7 @@
 22. [R-DAD] Object Detection based on Region Decomposition and Assembly，AAAI2019
 
 23. [GIoU] Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression，CVPR2019[解读](https://mp.weixin.qq.com/s?__biz=MzI5MDUyMDIxNA==&mid=2247487503&idx=1&sn=e98437efda298a9d8fe1a386c5a96601&chksm=ec1ffdf6db6874e03e1e05d438ebd0d295364d01ca8b2741bdad8ffa5d328032ad24ae76a289&token=762499696&lang=zh_CN&scene=21#wechat_redirect)
+
 简介：提出用IoU这个直接的指标来指导回归任务的学习，用直接指标IoU作为损失函数的缺陷性，提出新的metric来代替L1、L2损失函数，从而提升regression效果
 
 
