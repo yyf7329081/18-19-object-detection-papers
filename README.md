@@ -8,24 +8,24 @@
 简介：Densenet169+尺度变换模块+ssd框架，提高小物体识别率  
 [解读](https://blog.csdn.net/xh_hit/article/details/79512146) [github地址](https://github.com/arvention/STDN-PyTorch)
 
-3. [RefineDet] Single-Shot Refinement Neural Network for Object Detection，CVPR2018  
-简介：将Faster RCNN和SSD结合
+3. [RefineDet] Single-Shot Refinement Neural Network for Object Detection，CVPR2018
+简介：将Faster RCNN和SSD结合  
 [解读](https://blog.csdn.net/qq_21949357/article/details/80642551) [github地址](https://github.com/sfzhang15/RefineDet)
 
 4. [MegDet] MegDet: A Large Mini-Batch Object Detector，CVPR2018  
-简介：从大Mini-Batch的运用 和Batch Normalizatio（BN）的训练技巧出发，在训练方法上实现优化
+简介：从大Mini-Batch的运用 和Batch Normalizatio（BN）的训练技巧出发，在训练方法上实现优化  
 [解读](https://blog.csdn.net/Julialove102123/article/details/80471403)
 
-5. [DA Faster R-CNN] Domain Adaptive Faster R-CNN for Object Detection in the Wild，，CVPR2018  
+5. [DA Faster R-CNN] Domain Adaptive Faster R-CNN for Object Detection in the Wild，，CVPR2018
 简介：基于Faster-RCNN，进行领域自适应改进（似迁移学习），用在进行雾气，光线不良情况下的野外迁移探测活动（复杂多变的场景）  
 [解读](https://blog.csdn.net/qq_18882399/article/details/81188573) [github地址](https://github.com/yuhuayc/da-faster-rcnn)
 
 6. [SNIP] An Analysis of Scale Invariance in Object Detection，CVPR2018  
-简介：图像金字塔上检测相同大小，保留尺寸在指定范围之内的输出结果，解决尺度不变性问题
+简介：图像金字塔上检测相同大小，保留尺寸在指定范围之内的输出结果，解决尺度不变性问题  
 [解读](https://zhuanlan.zhihu.com/p/36431183)
 
 7. [Relation-Network] Relation Networks for Object Detection，CVPR2018  
-简介：基于Faster RCNN系列算法引入object relation module来刻画物体之间的关系，来提升检测效果
+简介：基于Faster RCNN系列算法引入object relation module来刻画物体之间的关系，来提升检测效果  
 [解读](https://blog.csdn.net/u014380165/article/details/80779432) [github地址](https://github.com/msracver/Relation-Networks-for-Object-Detection)
 
 8. [Cascade R-CNN] Cascade R-CNN: Delving into High Quality Object Detection，CVPR2018  
