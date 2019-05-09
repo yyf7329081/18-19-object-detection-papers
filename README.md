@@ -26,7 +26,7 @@
 
 7. [Relation-Network] Relation Networks for Object Detection，CVPR2018  
 简介：基于Faster RCNN系列算法引入object relation module来刻画物体之间的关系，来提升检测效果  
-[解读](https://blog.csdn.net/u014380165/article/details/80779432) [github地址](https://github.com/msracver/Relation-Networks-for-Object-Detection)
+[解读](https://www.jianshu.com/p/8ee6884bbd68) [github地址](https://github.com/msracver/Relation-Networks-for-Object-Detection)
 
 8. [Cascade R-CNN] Cascade R-CNN: Delving into High Quality Object Detection，CVPR2018  
 [github地址](https://github.com/zhaoweicai/cascade-rcnn)
