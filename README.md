@@ -1,5 +1,64 @@
 # 18-19-object-detection-papers
 18-19目标检测论文汇总  
+1. [SIN] Structure Inference Net: Object Detection Using Scene-Level Context and Instance-Level Relationships，CVPR2018  
+简介：利用场景和实例推理，提高识别正确率  
+[解读](https://blog.csdn.net/joyeuxni/article/details/81151969) [github地址](https://github.com/choasup/SIN)  
+
+2. [STDN] Scale-Transferrable Object Detection，CVPR2018  
+简介：Densenet169+尺度变换模块+ssd框架，提高小物体识别率  
+[解读](https://blog.csdn.net/xh_hit/article/details/79512146) [github地址](https://github.com/arvention/STDN-PyTorch)
+
+3. [RefineDet] Single-Shot Refinement Neural Network for Object Detection，CVPR2018  
+简介：将Faster RCNN和SSD结合
+[解读](https://blog.csdn.net/qq_21949357/article/details/80642551) [github地址](https://github.com/sfzhang15/RefineDet)
+
+4. [MegDet] MegDet: A Large Mini-Batch Object Detector，CVPR2018  
+简介：从大Mini-Batch的运用 和Batch Normalizatio（BN）的训练技巧出发，在训练方法上实现优化
+[解读](https://blog.csdn.net/Julialove102123/article/details/80471403)
+
+5. [DA Faster R-CNN] Domain Adaptive Faster R-CNN for Object Detection in the Wild，，CVPR2018  
+简介：基于Faster-RCNN，进行领域自适应改进（似迁移学习），用在进行雾气，光线不良情况下的野外迁移探测活动（复杂多变的场景）  
+[解读](https://blog.csdn.net/qq_18882399/article/details/81188573) [github地址](https://github.com/yuhuayc/da-faster-rcnn)
+
+6. [SNIP] An Analysis of Scale Invariance in Object Detection，CVPR2018  
+简介：图像金字塔上检测相同大小，保留尺寸在指定范围之内的输出结果，解决尺度不变性问题
+[解读](https://zhuanlan.zhihu.com/p/36431183)
+
+7. [Relation-Network] Relation Networks for Object Detection，CVPR2018  
+简介：基于Faster RCNN系列算法引入object relation module来刻画物体之间的关系，来提升检测效果
+[解读](https://blog.csdn.net/u014380165/article/details/80779432) [github地址](https://github.com/msracver/Relation-Networks-for-Object-Detection)
+
+8. [Cascade R-CNN] Cascade R-CNN: Delving into High Quality Object Detection，CVPR2018  
+[github地址](https://github.com/zhaoweicai/cascade-rcnn)
+
+9. [MLKP] Multi-scale Location-aware Kernel Representation for Object Detection，CVPR2018  
+[github地址](https://github.com/Hwang64/MLKP)
+
+10. [Fitness NMS] Improving Object Localization with Fitness NMS and Bounded IoU Loss，CVPR2018  
+
+11. [STDnet] STDnet: A ConvNet for Small Target Detection，BMVC2018  
+
+12. [RFBNet] Receptive Field Block Net for Accurate and Fast Object Detection，ECCV' 18  
+[github地址](https://github.com/ruinmessi/RFBNet)
+
+13. [CornerNet] CornerNet: Detecting Objects as Paired Keypoints，ECCV' 18  
+[github地址](https://github.com/princeton-vl/CornerNet)
+
+14. [PFPNet] Parallel Feature Pyramid Network for Object Detection，ECCV' 18  
+
+15. [Softer-NMS] Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection，ECCV' 18  
+
+16. [ShapeShifter] ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector，ECML-PKDD-2018  
+[github地址](https://github.com/shangtse/robust-physical-attack)
+
+17. [Pelee] Pelee: A Real-Time Object Detection System on Mobile Devices，NIPS' 18  
+[github地址](https://github.com/Robert-JunWang/Pelee)
+
+18. [HKRM] Hybrid Knowledge Routed Modules for Large-scale Object Detection，NIPS' 18  
+
+19. [MetaAnchor] MetaAnchor: Learning to Detect Objects with Customized Anchors，NIPS' 18  
+
+20. [SNIPER] SNIPER: Efficient Multi-Scale Training，NIPS' 18  
 
 21. [M2Det] M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network，AAAI2019  
 简介：主干网络中两个不同尺寸的特征图，进行多级U型网络得到Multi-level&Mutli-scale特征图，多级同尺寸的特征图融合，得到6个不同scale的多级特征金字塔，进行回归与分类。  
