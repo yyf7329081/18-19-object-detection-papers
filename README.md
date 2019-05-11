@@ -32,26 +32,33 @@
 [github地址](https://github.com/zhaoweicai/cascade-rcnn)
 
 9. [MLKP] Multi-scale Location-aware Kernel Representation for Object Detection，CVPR2018  
-[github地址](https://github.com/Hwang64/MLKP)
+简介：基于Faster-RCNN,不同卷积块中的多层特征，将它们连接成一个单一的特征图，然后计算这些特征图上的高阶统计量。引入了一个可训练的位置权重结构来评估不同位置的贡献，使我们的表示位置更加敏感。最后，将不同的表示顺序连接起来进行分类和回归。检测器更具辨别力，对小目标和遮挡物体检测提升效果显著。  
+[解读](http://www.pianshen.com/article/7806238840/) [github地址](https://github.com/Hwang64/MLKP)
 
 10. [Fitness NMS] Improving Object Localization with Fitness NMS and Bounded IoU Loss，CVPR2018  
 
 11. [STDnet] STDnet: A ConvNet for Small Target Detection，BMVC2018  
 
 12. [RFBNet] Receptive Field Block Net for Accurate and Fast Object Detection，ECCV' 18  
-[github地址](https://github.com/ruinmessi/RFBNet)
+简介：基于SSD，在Inception的基础上加入了dilated膨胀卷积，增大了感受野，在保证速度的情况下，增加了检测精度。  
+[解读](https://blog.csdn.net/u014380165/article/details/81556769) [github地址](https://github.com/ruinmessi/RFBNet)
 
 13. [CornerNet] CornerNet: Detecting Objects as Paired Keypoints，ECCV' 18  
-[github地址](https://github.com/princeton-vl/CornerNet)
+简介：one-stage，通过将目标检测变为为成对关键点，达到anchor-free，引入了corner pooling，更好定位角点。  
+[解读](https://blog.csdn.net/weixin_40414267/article/details/82379793) [github地址](https://github.com/princeton-vl/CornerNet)
 
 14. [PFPNet] Parallel Feature Pyramid Network for Object Detection，ECCV' 18  
+简介：one stage，借鉴了SPP的思想并通过MSCA特征融合，多尺度多特征图融合检测。  
+[解读](https://blog.csdn.net/duanyajun987/article/details/82590166)
 
 15. [Softer-NMS] Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection，ECCV' 18  
+[github地址](https://github.com/yihui-he/softer-NMS)
 
 16. [ShapeShifter] ShapeShifter: Robust Physical Adversarial Attack on Faster R-CNN Object Detector，ECML-PKDD-2018  
 [github地址](https://github.com/shangtse/robust-physical-attack)
 
 17. [Pelee] Pelee: A Real-Time Object Detection System on Mobile Devices，NIPS' 18  
+简介：DesNet的变种版本PeleeNet，适用于移动端的轻量级网络。
 [github地址](https://github.com/Robert-JunWang/Pelee)
 
 18. [HKRM] Hybrid Knowledge Routed Modules for Large-scale Object Detection，NIPS' 18  
