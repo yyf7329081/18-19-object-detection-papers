@@ -29,7 +29,8 @@
 [解读](https://www.jianshu.com/p/8ee6884bbd68) [github地址](https://github.com/msracver/Relation-Networks-for-Object-Detection)
 
 8. [Cascade R-CNN] Cascade R-CNN: Delving into High Quality Object Detection，CVPR2018  
-[github地址](https://github.com/zhaoweicai/cascade-rcnn)
+简介：级联的RCNN，使用多个IoU threshold递增的header，每一级使用上一级refine过后的bbox作为输入。这样可以保证每一级的header都可以得到足够多的正样本，且正样本的质量可以逐级提升。  
+[解读](https://blog.csdn.net/wfei101/article/details/80024406) [github地址](https://github.com/zhaoweicai/cascade-rcnn)
 
 9. [MLKP] Multi-scale Location-aware Kernel Representation for Object Detection，CVPR2018  
 简介：基于Faster-RCNN,不同卷积块中的多层特征，将它们连接成一个单一的特征图，然后计算这些特征图上的高阶统计量。引入了一个可训练的位置权重结构来评估不同位置的贡献，使我们的表示位置更加敏感。最后，将不同的表示顺序连接起来进行分类和回归。检测器更具辨别力，对小目标和遮挡物体检测提升效果显著。  
