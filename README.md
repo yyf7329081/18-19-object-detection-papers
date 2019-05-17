@@ -59,7 +59,7 @@
 [github地址](https://github.com/shangtse/robust-physical-attack)
 
 17. [Pelee] Pelee: A Real-Time Object Detection System on Mobile Devices，NIPS' 18  
-简介：DesNet的变种版本PeleeNet，适用于移动端的轻量级网络。
+简介：DesNet的变种版本PeleeNet，适用于移动端的轻量级网络。  
 [github地址](https://github.com/Robert-JunWang/Pelee)
 
 18. [HKRM] Hybrid Knowledge Routed Modules for Large-scale Object Detection，NIPS' 18  
